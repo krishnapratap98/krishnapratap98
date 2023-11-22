@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Pratap Singh</h1>
 
-#### This is ME, Krishna Pratap Sing , Recent graduate in a Bachelore of Computer Applications and a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
+#### This is ME, Krishna Pratap Singh , Recent graduate in a Bachelore of Computer Applications and a passion for web development. With expertise in HTML, CSS, Java, JavaScript, ES6+, React and experienced in solving more than 400+ DSA problems. Strong problem-solving and analytical skills, combined with ability to work well in a team, making a valuable asset to any web development team.
 
 🌱 **I’m currently learning :** Full Stack Development (React and Node.js)
 
