@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **krishnapsingh98@gmail.com**
 
-- 📄  Know more about me [Resume](https://drive.google.com/file/d/1k6EFmsxCfT-HkkqS9OQKfFUqU5QGobsV/view?usp=share_link)
-
+- 📄  Know more about me [Resume](https://drive.google.com/file/d/1wc6-JGi_QWmdLbsEVvp01JWJUK7Z3Pz1/view?usp=drive_link)
 
 ## Connect with me:
 
